@@ -1,1 +1,1 @@
-# MUAYADWhatsApp
+{'ver1':'5', 'ver2':'0', 'ver3':'\n• [new update].\n• It contains many great new features.\n• More important fixes and improvements.\n• [تحديث جديد ممتع].\n• يحتوي على العديد من المزايا الجديد الرائعة.\n• مزيد إصلاحات وتحسينات أخرى مهمة.\n' , 'dli':'https://t.me/moaidmod'}
